@@ -8,6 +8,13 @@
       "route": "pages/home/index"
     },
     {
+      "path": "pages/goods/index",
+      "config": {
+        "navigationBarTitleText": "商品详情"
+      },
+      "route": "pages/goods/index"
+    },
+    {
       "path": "pages/order/index",
       "config": {
         "navigationBarTitleText": "订单"
